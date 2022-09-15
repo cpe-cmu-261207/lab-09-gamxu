@@ -18,7 +18,7 @@ export default function Home() {
       </div>
 
       <div className="d-flex flex-column justify-content-center fs-6 mt-2">
-        <span style={{textAlign:'center'}}>My name is Wuttipat Sanchai (Did). I'm from Lampang. I'm a 19 years
+        <span style={{textAlign:'center'}}>My name is Wuttipat Sanchai (Did). I am from Lampang. I am a 19 years
           old Computer Engineering student at Chiangmai University.
         </span>
         <span style={{textAlign:'center'}}>I love working with computers!</span>
@@ -54,7 +54,7 @@ export default function Home() {
           <div className="d-flex justify-content-center gap-5">
             <div style={{maxWidth:"200px"}}>
               <img src="/image/forexphoto.jfif" width="200px" style={{border:"solid"}} className="rounded-3"></img>
-              <p style={{textAlign:'center'}} className="mt-3 mx-auto">I've been started my Forex trader career for 6 months</p>
+              <p style={{textAlign:'center'}} className="mt-3 mx-auto">I have been started my Forex trader career for 6 months</p>
             </div>
             <div style={{maxWidth:"200px"}}>
               <img src="/image/book.jfif" width="200px" style={{border:"solid"}} className="rounded-3"></img>  
