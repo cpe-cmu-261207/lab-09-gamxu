@@ -19,4 +19,4 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 
 ดูวิธีการใช้ **Surge** ใน MS TEAM Channel General
 
-wuttipat-lab9.surge.sh
+https://wuttipat-lab9.surge.sh/lab-07
